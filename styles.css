@@ -1,0 +1,10 @@
+body {
+  color: #333;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container {
+  width: 1500px;
+  margin-right: auto;
+  margin-left: auto;
+}
